@@ -1,6 +1,5 @@
 # Android-StatusBarColor
 android 沉浸式状态栏的实现，超级简单
 
-效果图
 
-![ABC](GIF1.png)
+![效果图](GIF1.gif)
