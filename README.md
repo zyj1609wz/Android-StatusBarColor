@@ -11,9 +11,9 @@ android 沉浸式状态栏的实现，超级简单
   
   
         //设置颜色
-         StatusBarUtil.setColor(Activity1.this, Color.BLUE );
+        StatusBarUtil.setColor(Activity1.this, Color.BLUE );
          
-        //设置透明度，1- 255
+        //设置透明度，0- 255
         StatusBarUtil.setTranslucent( Activity2.this , 127 ) ;
          
         //设置全屏
