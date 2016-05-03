@@ -9,13 +9,13 @@ android 沉浸式状态栏的实现，超级简单
   ========
 
  1、  android studio 添加依赖库
- ------------------------------
 
   compile 'com.jaeger.statusbaruitl:library:1.0.0'
   
+  ------------------------------------------------
+  
   
  2、  代码中使用
- ---------------
  
      //设置颜色
      StatusBarUtil.setColor(Activity1.this, Color.BLUE );
@@ -24,7 +24,7 @@ android 沉浸式状态栏的实现，超级简单
      StatusBarUtil.setTranslucent( Activity2.this , 127 ) ;
          
      //设置全屏
-        StatusBarUtil.setTransparent(  Activity3.this ) ;
+     StatusBarUtil.setTransparent(  Activity3.this ) ;
         
      //侧边菜单
      mDrawerLayout = (DrawerLayout) findViewById( R.id.drawer_layout );
