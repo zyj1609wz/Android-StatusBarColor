@@ -30,9 +30,4 @@ android 沉浸式状态栏的实现，超级简单
 
 ## 3、apk下载
 
-
-# 一级标题
-## 二级标题
-### 三级标题
-#### 四级标题
-##### 五级标题
+   ![](http://e.hiphotos.bdimg.com/imgad/pic/item/7a899e510fb30f246ebc6fddcd95d143ac4b03cd.jpg)
