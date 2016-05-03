@@ -9,7 +9,7 @@ android 沉浸式状态栏的实现，超级简单
 
 ## 1、  android studio 添加依赖库
 
-  compile 'com.jaeger.statusbaruitl:library:1.0.0'
+     compile 'com.jaeger.statusbaruitl:library:1.0.0'
   
   ------------------------------------------------
   
