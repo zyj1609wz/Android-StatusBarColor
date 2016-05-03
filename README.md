@@ -29,5 +29,5 @@ android 沉浸式状态栏的实现，超级简单
      StatusBarUtil.setColorForDrawerLayout( Activity4.this  , mDrawerLayout , Color.BLUE) ;
 
 ## 3、apk下载
-
+    [百度][https://www.baidu.com]
    ![](http://e.hiphotos.bdimg.com/imgad/pic/item/7a899e510fb30f246ebc6fddcd95d143ac4b03cd.jpg)
