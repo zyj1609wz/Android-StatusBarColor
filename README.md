@@ -4,13 +4,15 @@ android 沉浸式状态栏的实现，超级简单
 
 ![效果图](GIF1.gif)
 
+
 # 使用方法
-==========
-  android studio 添加依赖库
+
+ 1、  android studio 添加依赖库
 
   compile 'com.jaeger.statusbaruitl:library:1.0.0'
   
   
+ 2、  代码中使用
         //设置颜色
         StatusBarUtil.setColor(Activity1.this, Color.BLUE );
          
