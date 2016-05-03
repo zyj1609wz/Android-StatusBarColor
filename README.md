@@ -29,3 +29,6 @@ android 沉浸式状态栏的实现，超级简单
      mDrawerLayout = (DrawerLayout) findViewById( R.id.drawer_layout );
      mDrawerLayout.setDrawerShadow(R.mipmap.ic_launcher , GravityCompat.START);
      StatusBarUtil.setColorForDrawerLayout( Activity4.this  , mDrawerLayout , Color.BLUE) ;
+
+## 3、apk下载
+
